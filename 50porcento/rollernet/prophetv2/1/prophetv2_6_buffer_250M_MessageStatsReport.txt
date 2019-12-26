@@ -1,0 +1,20 @@
+Message stats for scenario prophetv2_6_buffer_250M
+sim_time: 10000.0000
+created: 500
+started: 19880
+relayed: 13350
+aborted: 6529
+dropped: 1172
+removed: 0
+delivered: 482
+delivery_prob: 0.9640
+response_prob: 0.0000
+overhead_ratio: 26.6971
+latency_avg: 1159.0855
+latency_med: 917.5000
+hopcount_avg: 2.3195
+hopcount_med: 2
+buffertime_avg: 3242.8004
+buffertime_med: 0.0000
+rtt_avg: NaN
+rtt_med: NaN

@@ -1,0 +1,20 @@
+Message stats for scenario maxprop_3_buffer_500M
+sim_time: 254150.0000
+created: 1000
+started: 28775
+relayed: 25212
+aborted: 3563
+dropped: 0
+removed: 23936
+delivered: 960
+delivery_prob: 0.9600
+response_prob: 0.0000
+overhead_ratio: 25.2625
+latency_avg: 33906.7898
+latency_med: 27083.7000
+hopcount_avg: 3.3927
+hopcount_med: 3
+buffertime_avg: 14225.6320
+buffertime_med: 1207.9000
+rtt_avg: NaN
+rtt_med: NaN
